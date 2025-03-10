@@ -287,9 +287,9 @@
     }
 
 }
-@media (max-width:100px) {
+@media (max-width:300px) {
     .btn2 {
-        left: 150px;     
+        left: 200px;     
     }
 
 }
