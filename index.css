@@ -302,6 +302,7 @@
     justify-content: space-between;
     margin-top: 2rem;
     overflow-x: scroll;
+    position: relative;
 }
 
 
